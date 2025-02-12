@@ -7,8 +7,8 @@ YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
 # Configuration
-GITHUB_RAW_URL="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/market-monitor.sh"
-SCRIPT_NAME="market-monitor.sh"
+GITHUB_RAW_URL="https://raw.githubusercontent.com/KnowNeural/NeuralTerminal.sh/refs/heads/main/neural_install.sh"
+SCRIPT_NAME="neural_terminal.sh"
 LOCAL_DIR="$HOME/.local/bin/market-monitor"
 
 # Function to detect OS
