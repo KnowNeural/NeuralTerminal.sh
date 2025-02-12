@@ -35,7 +35,7 @@ wget -qO- https://raw.githubusercontent.com/KnowNeural/NeuralTerminal.sh/refs/he
 # Run with default settings
 ./neural_terminal.sh
 
-# Show only pump tokens with long signals
+# Show only GFM tokens with long signals
 ./neural_terminal.sh --tag GFM --long
 
 # Pin multiple tokens and show top 50
