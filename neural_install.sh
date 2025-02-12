@@ -7,7 +7,7 @@ YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
 # Configuration
-GITHUB_RAW_URL="https://raw.githubusercontent.com/KnowNeural/NeuralTerminal.sh/refs/heads/main/neural_install.sh"
+GITHUB_RAW_URL="https://raw.githubusercontent.com/KnowNeural/NeuralTerminal.sh/refs/heads/main/neural_terminal.sh"
 SCRIPT_NAME="neural_terminal.sh"
 LOCAL_DIR="$HOME/.local/bin/market-monitor"
 
